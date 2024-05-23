@@ -51,6 +51,9 @@ The instructions for this mini project are divided into the following subsection
         - A "category" column that contains only the category titles
         
         - The following image shows this category DataFrame:
+        
+<img width="399" alt="Screenshot 2024-05-23 at 5 51 32 PM" src="https://github.com/myoingco/Project-2/assets/160566342/5019ec6f-2f41-4e62-b9b3-a6d7cf8e1a39">
+
 
     2) Export the category DataFrame as category.csv and save it to your GitHub repository.
 
@@ -61,7 +64,10 @@ The instructions for this mini project are divided into the following subsection
         - A "subcategory" column that contains only the subcategory titles
         
         - The following image shows this subcategory DataFrame:
-        
+
+  <img width="517" alt="Screenshot 2024-05-23 at 5 51 52 PM" src="https://github.com/myoingco/Project-2/assets/160566342/3f32b591-1b04-4fef-b650-ad6c243c4cf8">
+
+
     4) Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 
 ### Create the Campaign DataFrame
@@ -96,7 +102,10 @@ The instructions for this mini project are divided into the following subsection
         - The "subcategory_id" column, with the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
 
         - The following image shows this campaign DataFrame:
-        
+
+<img width="718" alt="Screenshot 2024-05-23 at 5 52 44 PM" src="https://github.com/myoingco/Project-2/assets/160566342/40849442-142b-48b8-8143-570fb9a880af">
+
+
     2) Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
 
 ### Create the Contacts DataFrame
@@ -127,7 +136,10 @@ The instructions for this mini project are divided into the following subsection
         - Clean and then export the DataFrame as contacts.csv and save it to your GitHub repository.
 
     4) Check that your final DataFrame resembles the one in the following image:
-    
+
+  <img width="757" alt="Screenshot 2024-05-23 at 5 53 04 PM" src="https://github.com/myoingco/Project-2/assets/160566342/8cb8e0ed-8a59-4341-8478-eb2ef06a6440">
+
+
 ### Create the Crowdfunding Database
     1) Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site..
 
